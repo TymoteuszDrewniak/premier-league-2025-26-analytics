@@ -1,8 +1,8 @@
-# Premier League 2025/2026 Live Analytics Pipeline
+# Premier League 2026/2027 Live Analytics Pipeline
 
 ## Scope and Objective
 
-This notebook analyzes the live 2025/2026 Premier League season, where teams can have different numbers of matches played.
+This notebook analyzes the live 2026/2027 Premier League season, where teams can have different numbers of matches played.
 
 Data is refreshed automatically every Tuesday via GitHub Actions.
 
